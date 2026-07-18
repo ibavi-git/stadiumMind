@@ -164,7 +164,6 @@ pytest tests/ -v
 
 ## 📸 Screenshots
 
-*(Replace placeholders with actual image paths)*
 - ![Volunteer Dashboard](docs/images/placeholder_volunteer.png) *Volunteer Q&A Interface*
 - ![Organizer View](docs/images/placeholder_organizer.png) *Live Crowd Heatmap & Insights*
 
