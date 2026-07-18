@@ -185,6 +185,3 @@ This project was built for the Google Prompt Wars Virtual Challenge 2026. It dee
 
 ## 📄 License
 This project is licensed under the MIT License.
-
-## 🤝 Contributors
-- Your Name / Team Placeholder
